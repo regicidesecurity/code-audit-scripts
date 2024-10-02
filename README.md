@@ -1,6 +1,6 @@
 # code-audit-scripts
 
-Runs a collection of open source scanning tools against the specified repos. This repo excludes our proprietary secret sauce scanning tools ;)
+Runs a collection of open source scanning tools (semgrep, dependency checker, gitleaks) against the specified repos. This repo excludes our proprietary secret sauce scanning tools ;)
 
 ## Usage
 
