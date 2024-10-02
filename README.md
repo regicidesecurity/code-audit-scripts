@@ -1,4 +1,4 @@
-# audit-scripts
+# code-audit-scripts
 
 Runs a collection of open source scanning tools against the specified repos. This repo excludes our proprietary secret sauce scanning tools ;)
 
